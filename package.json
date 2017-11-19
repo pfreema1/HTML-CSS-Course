@@ -1,0 +1,24 @@
+{
+  "name": "firsthtmlcsscourse",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfreema1/HTML-CSS-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfreema1/HTML-CSS-Course/issues"
+  },
+  "homepage": "https://github.com/pfreema1/HTML-CSS-Course#readme",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
