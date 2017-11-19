@@ -26,6 +26,10 @@ gulp.task('watch', function() {
 
     });
 
+    watch('./stylesheets/*', function() {
+        browserSync.reload();
+    })
+
 });
 
 
